@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493811660916",
+    "firebase_url": "https://granmapey-d2d1d.firebaseio.com",
+    "project_id": "granmapey-d2d1d",
+    "storage_bucket": "granmapey-d2d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493811660916:android:c9274b880458f242",
+        "android_client_info": {
+          "package_name": "com.example.juniorf.granmapey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493811660916-89oka3cd7gp8jkiu4p7k76drsjudae5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juniorf.granmapey",
+            "certificate_hash": "ca79a01520ef59baa52ba2688896f9b3244e9a97"
+          }
+        },
+        {
+          "client_id": "493811660916-u8ncuqr3qkqatqf2l85ktva0k37emk1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzmS5_MB0psxCMWjPiLkJMda9VEJBzHQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493811660916-u8ncuqr3qkqatqf2l85ktva0k37emk1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
